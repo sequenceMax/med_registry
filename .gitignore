@@ -1,0 +1,17 @@
+# Python interpreter
+*.py[cod]
+/__pycache__/
+.venv/
+
+/static/dist/
+
+# Local configurations
+*/settings_instance.py
+
+# Server static
+static_root
+
+/node_modules/
+
+package-lock.json
+*.lock
